@@ -23,7 +23,7 @@ const portfolioItemsData = [
         category: 'projects',
         title: 'Warcoff',
         description: 'Warcoff adalah aplikasi web inovatif untuk warkop digital. Aplikasi ini mempermudah pengelolaan menu, pesanan, dan pembayaran dengan antarmuka yang minimalis dan intuitif, mengoptimalkan alur kerja, mengurangi kesalahan, dan meningkatkan efisiensi layanan.',
-        image: 'image_3a26fe.png', // Using the uploaded image
+        image: 'warcoff.png', // Using the uploaded image
         demoLink: 'https://www.youtube.com/watch?v=your-youtube-video-id' // Placeholder YouTube URL
     },
     {
@@ -31,7 +31,7 @@ const portfolioItemsData = [
         category: 'projects',
         title: 'SayurMart',
         description: 'Sistem manajemen inventaris berbasis web untuk toko sayuran. Aplikasi ini dirancang untuk mengelola stok, mencatat penjualan, dan memantau persediaan dengan efisien, membantu toko sayuran mengoptimalkan operasional dan mengurangi pemborosan.',
-        image: 'https://placehold.co/600x420/221932/9882B9?text=SayurMart+Image', // Placeholder image for SayurMart
+        image: 'sayurmart.png', // Placeholder image for SayurMart
         demoLink: '#' // Placeholder link for SayurMart demo
     },
     // Trainings
